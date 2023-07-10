@@ -1,0 +1,18 @@
+.filters{
+    padding: 2rem;
+    background-color: white !important;
+    box-shadow: 2px 3px 10px rgb(57, 57, 63);
+}
+.cards
+{
+    height: 100px;
+    background-color: white !important;
+    margin-top: 1rem;
+}
+.pilgcard:hover{
+    background-color: #b1f5ff;
+    box-shadow: rgba(28, 198, 255, 0.199) -10px 10px, rgba(28, 168, 255, 0.19) -20px 20px ;
+    transition: 0.3s ease-in-out;
+    
+}
+

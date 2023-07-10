@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@100;200;400&display=swap');
+
+
+.brand{
+    font-family: 'Bebas Neue', cursive;
+    color: white !important;
+    font-size: 30px;
+    padding-left: 0.5rem;
+}
+.search
+{
+    border-radius: 5px;
+    padding: 1rem;
+    border: none;
+}
+.bi-search
+{
+    font-size: 20px;
+}
+.blogs
+{
+    padding: 5rem 0 2rem 0;
+    color: white !important;
+    font-family: 'Bebas Neue', cursive;
+}
+.card
+{
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 16px 12px 24px -3px rgba(0, 5, 69, 0.75);
+    -webkit-box-shadow: 16px 16px 27px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 16px 16px 27px -3px rgba(0,0,0,0.75);
+}
+.card-title
+{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(0, 0, 0) !important;
+}
+.card-blogs
+{
+    font-weight: 300;
+    background-color: rgb(255, 246, 236);
+}
+.foot
+{
+    padding-top: 5rem;
+}
+.searchdata{
+    background-color: white;
+}
+.options{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: black;
+    padding: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+.options:hover{
+    background-color: rgb(255, 238, 126);
+    color: rgb(137, 0, 0);
+}
+section {
+    padding: 60px 0;
+    overflow: hidden;
+    margin-top: 3.5rem;
+  }
+  
+  .sections-bg {
+    background-color: #f6f6f6;
+  }
+  
+  .section-header {
+    text-align: center;
+    padding-bottom: 60px;
+  }
+
+  .section-header h2 {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+  }
+  
+  .section-header h2:after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: var(--color-primary);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+  }
+  
+  .section-header p {
+    margin-bottom: 0;
+    color: #6f6f6f;
+  }
+  #preloader {
+    position: fixed;
+    inset: 0;
+    z-index: 999999;
+    overflow: hidden;
+    background: #fff;
+    transition: all 0.6s ease-out;
+  }
+  .services {
+    padding: 60px 0;
+  }
+  
+  .services .service-item {
+    padding: 40px;
+    background: #fff;
+    height: 100%;
+    border-radius: 10px;
+  }
+  
+  .services .service-item .icon {
+    width: 48px;
+    height: 48px;
+    position: relative;
+    margin-bottom: 50px;
+  }
+  
+  .services .service-item .icon i {
+    color: var(--color-default);
+    font-size: 56px;
+    transition: ease-in-out 0.3s;
+    z-index: 2;
+    position: relative;
+  }
+  
+  .services .service-item .icon:before {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    background: #eeeeee;
+    border-radius: 50px;
+    z-index: 1;
+    top: 10px;
+    right: -20px;
+    transition: 0.3s;
+  }
+  
+  .services .service-item h3 {
+    color: var(--color-default);
+    font-weight: 700;
+    margin: 0 0 20px 0;
+    padding-bottom: 8px;
+    font-size: 22px;
+    position: relative;
+    display: inline-block;
+    border-bottom: 4px solid #eeeeee;
+    transition: 0.3s;
+  }
+  
+  .services .service-item p {
+    line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+  
+  .services .service-item .readmore {
+    margin-top: 15px;
+    display: inline-block;
+    color: var(--color-primary);
+  }
+  
+  .services .service-item:hover .icon:before {
+    background: #6ed1ff;
+  }
+  
+  .services .service-item:hover h3 {
+    border-color: var(--color-primary);
+  }
+  .faq .content h3 {
+    font-weight: 400;
+    font-size: 34px;
+  }
+  
+  .faq .content h4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 5px;
+  }
+  
+  .faq .content p {
+    font-size: 15px;
+    color: #6c757d;
+  }
+  
+  .faq .accordion-item {
+    border: 0;
+    margin-bottom: 20px;
+    box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+  }
+  
+  .faq .accordion-item:last-child {
+    margin-bottom: 0;
+  }
+  
+  .faq .accordion-collapse {
+    border: 0;
+  }
+  
+  .faq .accordion-button {
+    padding: 20px 50px 20px 20px;
+    font-weight: 600;
+    border: 0;
+    font-size: 18px;
+    line-height: 24px;
+    color: var(--color-default);
+    text-align: left;
+    background: #fff;
+    box-shadow: none;
+    border-radius: 10px;
+  }
+  
+  .faq .accordion-button .num {
+    padding-right: 10px;
+    font-size: 20px;
+    line-height: 0;
+    color: var(--color-primary);
+  }
+  
+  .faq .accordion-button:not(.collapsed) {
+    color: var(--color-primary);
+    border-bottom: 0;
+    box-shadow: none;
+  }
+  
+  .faq .accordion-button:after {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+  }
+  
+  .faq .accordion-body {
+    padding: 0 40px 30px 45px;
+    border: 0;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: none;
+  }
+
+

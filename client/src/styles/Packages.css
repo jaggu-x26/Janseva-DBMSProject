@@ -1,0 +1,41 @@
+.packages
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #fffffe;
+}
+.packages:hover{
+    background-color: #c7efff;
+    box-shadow: rgba(28, 198, 255, 0.199) -10px 10px, rgba(28, 168, 255, 0.19) -20px 20px ;
+    transition: 0.3s ease-in-out;
+}
+
+.button1 {
+	color: white;
+	background-color: rgb(26, 103, 225);
+	border: 5px solid transparent;
+	transition: .2s ease;
+	border-radius: 50px;
+}
+
+.button1:hover {
+	color: rgb(255, 255, 255);
+	background-color: #0A4D68;
+	border: 6.5px solid #0A4D68;
+}
+.card-link{
+    text-decoration: none;
+    color: black;
+}
+.price{
+    color: red;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    
+}
+.terms{
+    font-size: 12px;
+    font-weight: 200;
+    color: red;
+    margin-top: -10px;
+}

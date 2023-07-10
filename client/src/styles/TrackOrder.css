@@ -1,0 +1,66 @@
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+    box-shadow: 2px 3px 5px rgb(8, 8, 8);
+    
+} 
+.iconsize {
+    font-size: 85px;
+} 
+.trackback
+{
+    padding-top: 5rem;
+    padding-bottom: 5rem;;
+    background-color: white !important;
+    display: flex !important;
+    border-radius: 7px;
+    justify-content: space-around;
+    padding-left: 4.5rem;
+}
+.block
+{
+    margin-top: 7rem;
+    background-color: white !important;
+    border-radius: 7px;
+    margin-bottom: 5rem !important;;
+}
+.labels
+{
+    display: flex;
+    justify-content:space-evenly;
+    margin-bottom: 3rem;
+}
+.ohead
+{
+    background-color: rgb(190, 50, 50) !important;
+    color: white;
+    margin-top: 1.5rem;
+    padding: 2rem;
+    padding-left: 2rem;
+    border-radius: 15px;
+    box-shadow: 2px 3px 5px rgb(59, 59, 59);
+    text-align: center;
+}
+.disp
+{
+    background-color: rgb(2, 2, 74);
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    width: 100%;
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: 2px 4px 5px rgb(110, 110, 110);
+}
+.dsp
+{
+    color: white !important;
+    font-size: 15px;
+    text-align: center !important;
+    align-items: center !important;;
+    margin-top: 2vh;
+}

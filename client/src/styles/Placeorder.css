@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@100;200;400&display=swap');
+.ordrsummary
+{
+    padding-top:2rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+}
+.title
+{
+    font-size: 24px;
+    color: rgb(0, 43, 113);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.orderback
+{
+    background-color: white;
+    padding : 3rem;
+    border-radius: 15px;
+    box-shadow: 3px 6px 9px rgb(32, 32, 32);
+}
+.orderhead{
+    color: black;
+    font-size: 35px;
+    font-family: 'Bebas Neue', cursive;
+    margin-bottom: 2rem;
+}
+.orderdesp
+{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 21px;
+}
+.ordersum
+{
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+     
+}
+.paybutton
+{
+    padding-top: 2rem;
+    margin-left: 80px;;
+}
