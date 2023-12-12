@@ -11,3 +11,21 @@ The JanSeva platform aims to democratize the search for the divine by enabling d
 4. Payment Gateways module
 5. Tracking Status module
 6. Feedback module
+
+## Images
+
+![alt text](https://github.com/jaggu-x26/Janseva-DBMSProject/blob/main/Screenshot%202023-12-12%20113025.png)
+Fig 1: Design for Landing page
+
+![alt text](https://github.com/jaggu-x26/Janseva-DBMSProject/blob/main/Screenshot%202023-12-12%20113059.png)
+Fig 2 : Design for Authentication Interface 
+
+![alt text](https://github.com/jaggu-x26/Janseva-DBMSProject/blob/main/Screenshot%202023-12-12%20113106.png)
+Fig 3 : Design for Home Page 
+
+![alt text](https://github.com/jaggu-x26/Janseva-DBMSProject/blob/main/Screenshot%202023-12-12%20113113.png)
+Fig 4 : Design for Pilgrimage Search 
+
+![alt text](https://github.com/jaggu-x26/Janseva-DBMSProject/blob/main/Screenshot%202023-12-12%20113125.png)
+Fig 5 : Design for Tracking Interface
+
